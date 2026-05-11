@@ -12,7 +12,7 @@
   <a href="#-lo-que-hago--what-i-do"><img src="https://img.shields.io/badge/-%E2%9A%A1_WORK-0F172A?style=for-the-badge&labelColor=F472B6&color=0F172A" /></a>
   <a href="#-stats"><img src="https://img.shields.io/badge/-%F0%9F%93%8A_STATS-0F172A?style=for-the-badge&labelColor=34D399&color=0F172A" /></a>
 </p>
-f
+
 ---
 
 ## 👾 Sobre mí · About me
