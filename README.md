@@ -66,7 +66,7 @@ I build **ERP systems**, **SAP** integrations, automations, and cloud infrastruc
 
 ### 🏢 ERP & SAP
 PHP MVC · **Internal Trade Platform**  
-SAP R/3 RFC Gateway  
+SAP RFC Gateway  
 node-rfc
 3-Way Match Auto
 
@@ -121,7 +121,7 @@ Power BI · n8n
 | **DevOps** | Azure · Docker · Nginx · TLS hardening · CI/CD |
 | **Real-time** | Soketi · Pusher SDK · WebSockets · Socket.IO |
 | **Automation** | n8n · Power Automate · Power BI |
-| **Enterprise** | SAP R/3 · RFC Gateway · MM/FI workflows |
+| **Enterprise** | SAP · RFC Gateway · MM/FI workflows |
 
 </details>
 
@@ -137,7 +137,7 @@ Power BI · n8n
 
 > **🇪🇸** Sistema interno tipo ERP que maneja el **flujo completo de importaciones**: desde la **cotización** con proveedores, **proformas CO**, **comparativos**, gestión de **agentes de carga** y **proveedores**, **órdenes de compra**, hasta la **recepción de mercancía** — todo integrado con **SAP**.
 >
-> **🇺🇸** Internal ERP-like system that handles the **full procurement flow**: from supplier **quotations**, **CO proformas**, **bid comparatives**, **freight forwarders** and **vendor** management, **purchase orders**, all the way to **goods receipt** — fully integrated with **SAP R/3**.
+> **🇺🇸** Internal ERP-like system that handles the **full procurement flow**: from supplier **quotations**, **CO proformas**, **bid comparatives**, **freight forwarders** and **vendor** management, **purchase orders**, all the way to **goods receipt** — fully integrated with **SAP**.
 
 <br />
 
