@@ -99,11 +99,9 @@ Power BI · n8n
 ## 🛠️ Stack · Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,js,ts,cs,dotnet,nodejs,react,nextjs,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,ts,cs,dotnet,react,nextjs&theme=dark" />
   <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux,nginx,azure,aws,git,github&theme=dark" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=vscode,bash,powershell,markdown,figma,postman,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,linux,azure&theme=dark" />
 </p>
 
 <details>
