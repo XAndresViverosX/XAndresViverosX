@@ -135,7 +135,7 @@ Power BI · n8n
 
 </div>
 
-> **🇪🇸** Sistema interno tipo ERP que maneja el **flujo completo de importaciones**: desde la **cotización** con proveedores, **proformas CO**, **comparativos**, gestión de **agentes de carga** y **proveedores**, **órdenes de compra**, hasta la **recepción de mercancía** — todo integrado con **SAP R/3**.
+> **🇪🇸** Sistema interno tipo ERP que maneja el **flujo completo de importaciones**: desde la **cotización** con proveedores, **proformas CO**, **comparativos**, gestión de **agentes de carga** y **proveedores**, **órdenes de compra**, hasta la **recepción de mercancía** — todo integrado con **SAP**.
 >
 > **🇺🇸** Internal ERP-like system that handles the **full procurement flow**: from supplier **quotations**, **CO proformas**, **bid comparatives**, **freight forwarders** and **vendor** management, **purchase orders**, all the way to **goods receipt** — fully integrated with **SAP R/3**.
 
