@@ -172,7 +172,6 @@ Power BI · n8n
 ┌─────────────────────────────────────────────────────────────┐
 │  ☕  Mi código corre con café · My code runs on coffee      │
 │  🎓  Universidad ECCI · Cali                                │
-│  🔌  Diseñé un sumador binario con 74HC283 (sí, hardware)   │
 │  📚  Me gusta documentar TODO · I document EVERYTHING       │
 │  🗣️  Hablo español nativo · Native Spanish speaker          │
 │  🌙  Modo oscuro siempre · Dark mode forever                │
