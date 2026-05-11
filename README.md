@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="#-sobre-mí--about-me"><img src="https://img.shields.io/badge/-%F0%9F%91%BE_SOBRE_MI-0F172A?style=for-the-badge&labelColor=22D3EE&color=0F172A" /></a>
-  <a href="#-stack--tools"><img src="https://img.shields.io/badge/-%F0%9F%9B%A0%EF%B8%8F_STACK-0F172A?style=for-the-badge&labelColor=A78BFA&color=0F172A" /></a>
-  <a href="#-lo-que-hago--what-i-do"><img src="https://img.shields.io/badge/-%E2%9A%A1_WORK-0F172A?style=for-the-badge&labelColor=F472B6&color=0F172A" /></a>
-  <a href="#-stats"><img src="https://img.shields.io/badge/-%F0%9F%93%8A_STATS-0F172A?style=for-the-badge&labelColor=34D399&color=0F172A" /></a>
+  <a href="#-sobre-mí--about-me"><img src="https://img.shields.io/badge/%F0%9F%91%BE_SOBRE_MI-0F172A?style=for-the-badge&labelColor=22D3EE&color=0F172A" /></a>
+  <a href="#-stack--tools"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_STACK-0F172A?style=for-the-badge&labelColor=A78BFA&color=0F172A" /></a>
+  <a href="#-lo-que-hago--what-i-do"><img src="https://img.shields.io/badge/%E2%9A%A1_WORK-0F172A?style=for-the-badge&labelColor=F472B6&color=0F172A" /></a>
+  <a href="#-stats"><img src="https://img.shields.io/badge/%F0%9F%93%8A_STATS-0F172A?style=for-the-badge&labelColor=34D399&color=0F172A" /></a>
 </p>
 
 ---
